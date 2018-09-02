@@ -1,7 +1,10 @@
-# login-test
+# login-page
+
+## Login page with wizard navigation and CryptoPro cades browser plugin
 
 ## Project setup
 ```
+install Crypto-Pro cades browser plugin
 npm install
 ```
 
